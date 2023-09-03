@@ -3,7 +3,7 @@
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
 ## 📸 Screenshots
-![image](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png)
+![image](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png))
 ![image](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV0ZmxpeHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80))
 ![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i4.png)
 ![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i5.png)
