@@ -4,7 +4,7 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 ## 📸 Screenshots
 ![image](https://stock.adobe.com/in/search/images?k=netflix&asset_id=481762281)
-![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i9.png)
+![image](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV0ZmxpeHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80))
 ![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i4.png)
 ![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i5.png)
 ![image](C:\Users\geeth\OneDrive\Desktop\internship images\internship imahes\i6.png)
